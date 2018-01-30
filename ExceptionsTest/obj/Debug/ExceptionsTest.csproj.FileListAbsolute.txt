@@ -11,3 +11,8 @@ C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\ExceptionsTest\bin\Debug\Except
 C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\ExceptionsTest\bin\Debug\ExceptionsTest.pdb
 C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\ExceptionsTest\obj\Debug\ExceptionsTest.dll
 C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\ExceptionsTest\obj\Debug\ExceptionsTest.pdb
+C:\Users\DiegoRL.INDIGO\Desktop\PruebaNET\Prueba.NET\ExceptionsTest\bin\Debug\ExceptionsTest.dll
+C:\Users\DiegoRL.INDIGO\Desktop\PruebaNET\Prueba.NET\ExceptionsTest\bin\Debug\ExceptionsTest.pdb
+C:\Users\DiegoRL.INDIGO\Desktop\PruebaNET\Prueba.NET\ExceptionsTest\obj\Debug\ExceptionsTest.csprojResolveAssemblyReference.cache
+C:\Users\DiegoRL.INDIGO\Desktop\PruebaNET\Prueba.NET\ExceptionsTest\obj\Debug\ExceptionsTest.dll
+C:\Users\DiegoRL.INDIGO\Desktop\PruebaNET\Prueba.NET\ExceptionsTest\obj\Debug\ExceptionsTest.pdb

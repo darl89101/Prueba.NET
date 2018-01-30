@@ -38,3 +38,6 @@ C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Prueba.NET\obj\Release\Prueba.N
 C:\Users\DiegoRL.INDIGO\Desktop\Prueba\Prueba.NET\bin\Release\Prueba.NET.exe.config
 C:\Users\DiegoRL.INDIGO\Desktop\Prueba\Prueba.NET\obj\Release\Prueba.NET.exe
 C:\Users\DiegoRL.INDIGO\Desktop\Prueba\Prueba.NET\obj\Release\Prueba.NET.pdb
+C:\Users\DiegoRL.INDIGO\Desktop\PruebaNET\Prueba.NET\Prueba.NET\bin\Release\Prueba.NET.exe.config
+C:\Users\DiegoRL.INDIGO\Desktop\PruebaNET\Prueba.NET\Prueba.NET\obj\Release\Prueba.NET.exe
+C:\Users\DiegoRL.INDIGO\Desktop\PruebaNET\Prueba.NET\Prueba.NET\obj\Release\Prueba.NET.pdb

@@ -11,3 +11,8 @@ C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Prueba.Entities\bin\Debug\Prueb
 C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Prueba.Entities\bin\Debug\Prueba.Entities.pdb
 C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Prueba.Entities\obj\Debug\Prueba.Entities.dll
 C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Prueba.Entities\obj\Debug\Prueba.Entities.pdb
+C:\Users\DiegoRL.INDIGO\Desktop\PruebaNET\Prueba.NET\Prueba.Entities\bin\Debug\Prueba.Entities.dll
+C:\Users\DiegoRL.INDIGO\Desktop\PruebaNET\Prueba.NET\Prueba.Entities\bin\Debug\Prueba.Entities.pdb
+C:\Users\DiegoRL.INDIGO\Desktop\PruebaNET\Prueba.NET\Prueba.Entities\obj\Debug\Prueba.Entities.csprojResolveAssemblyReference.cache
+C:\Users\DiegoRL.INDIGO\Desktop\PruebaNET\Prueba.NET\Prueba.Entities\obj\Debug\Prueba.Entities.dll
+C:\Users\DiegoRL.INDIGO\Desktop\PruebaNET\Prueba.NET\Prueba.Entities\obj\Debug\Prueba.Entities.pdb

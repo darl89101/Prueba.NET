@@ -39,6 +39,8 @@ namespace Prueba
                 {
                     foreach (var item in value)
                     {
+                        if (string.IsNullOrEmpty(item.ImageUrl))
+                            continue;
                         HttpWebRequest myRequest = (HttpWebRequest)WebRequest.Create(item.ImageUrl);
                         myRequest.Method = "GET";
                         HttpWebResponse myResponse = (HttpWebResponse)myRequest.GetResponse();
@@ -91,7 +93,7 @@ namespace Prueba
 
         public void CleanControls()
         {
-
+            _presenter.ListVehicles(TxtFilter.Text.Trim());
         }
 
         public void ShowMessage(string message, MessageBoxIcon type)

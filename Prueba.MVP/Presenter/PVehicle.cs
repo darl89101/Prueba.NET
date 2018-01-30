@@ -56,12 +56,18 @@ namespace Prueba.MVP.Presenter
                     .Select(item =>
                         new Vehicle()
                         {
-                            Id = item.Object.Id,
+                            Id = item.Key,
                             Name = item.Object.Name,
                             Price = item.Object.Price,
-                            ImageUrl = item.Object.ImageUrl
+                            ImageUrl = item.Object.ImageUrl,
+                            Transmission = item.Object.Transmission
                         }).ToList();
-                _iview.Vechicles = dbData.FindAll(m => m.Name.ToLower().Contains(filter.ToLower()));
+                if (!string.IsNullOrEmpty(filter))
+                {
+                    dbData = dbData.FindAll(m => m.Name.ToLower().Contains(filter.ToLower()));
+                }
+
+                _iview.Vechicles = dbData;
             }
             catch (Exception ex)
             {
@@ -81,11 +87,26 @@ namespace Prueba.MVP.Presenter
                        {
                            AuthTokenAsyncFactory = () => Task.FromResult(data.FirebaseToken)
                        });
-                var veh = await db
+
+                if (string.IsNullOrEmpty(vehicle.Id))
+                {
+                    await db
                     .Child("users")
                     .Child(data.User.LocalId)
                     .Child("cars")
                     .PostAsync(vehicle);
+                }
+                else
+                {
+                    await db
+                       .Child("users")
+                       .Child(data.User.LocalId)
+                       .Child("cars")
+                       .Child(vehicle.Id)
+                       .PutAsync(vehicle);
+                }
+
+                
                 _iview.ShowMessage("Registro guardado exitosamente", System.Windows.Forms.MessageBoxIcon.Information);
                 _iview.EnableControls(true);
                 _iview.CleanControls();

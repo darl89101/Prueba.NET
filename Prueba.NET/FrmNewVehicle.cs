@@ -56,7 +56,12 @@ namespace Prueba
         private void BtnSave_Click(object sender, EventArgs e)
         {
             if (_editVechicle != null)
+            {
+                _editVechicle.Name = TxtName.Text.Trim();
+                _editVechicle.Price = Convert.ToDouble(TxtPrice.Text.Trim());
+                _editVechicle.Transmission = TxtTransmission.Text.Trim();
                 _presenter.SaveVehicle(_editVechicle);
+            }            
             else
                 _presenter.SaveVehicle(new Vehicle()
                 {
