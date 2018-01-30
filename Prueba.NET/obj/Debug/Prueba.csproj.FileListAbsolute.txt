@@ -1,0 +1,9 @@
+C:\Users\DiegoRL.INDIGO\AppData\Local\Temporary Projects\Prueba\bin\Debug\Prueba.exe.config
+C:\Users\DiegoRL.INDIGO\AppData\Local\Temporary Projects\Prueba\obj\Debug\Prueba.csprojResolveAssemblyReference.cache
+C:\Users\DiegoRL.INDIGO\AppData\Local\Temporary Projects\Prueba\obj\Debug\Prueba.Login.resources
+C:\Users\DiegoRL.INDIGO\AppData\Local\Temporary Projects\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+C:\Users\DiegoRL.INDIGO\AppData\Local\Temporary Projects\Prueba\obj\Debug\Prueba.csproj.GenerateResource.Cache
+C:\Users\DiegoRL.INDIGO\AppData\Local\Temporary Projects\Prueba\bin\Debug\Prueba.exe
+C:\Users\DiegoRL.INDIGO\AppData\Local\Temporary Projects\Prueba\bin\Debug\Prueba.pdb
+C:\Users\DiegoRL.INDIGO\AppData\Local\Temporary Projects\Prueba\obj\Debug\Prueba.exe
+C:\Users\DiegoRL.INDIGO\AppData\Local\Temporary Projects\Prueba\obj\Debug\Prueba.pdb

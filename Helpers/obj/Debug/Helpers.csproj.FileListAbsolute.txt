@@ -1,0 +1,13 @@
+C:\Users\DiegoRL.INDIGO\documents\visual studio 2015\Projects\Prueba.NET\Helpers\bin\Debug\Helpers.dll
+C:\Users\DiegoRL.INDIGO\documents\visual studio 2015\Projects\Prueba.NET\Helpers\bin\Debug\Helpers.pdb
+C:\Users\DiegoRL.INDIGO\documents\visual studio 2015\Projects\Prueba.NET\Helpers\obj\Debug\Helpers.dll
+C:\Users\DiegoRL.INDIGO\documents\visual studio 2015\Projects\Prueba.NET\Helpers\obj\Debug\Helpers.pdb
+C:\Users\darl_\Desktop\Prueba.NET\Helpers\bin\Debug\Helpers.dll
+C:\Users\darl_\Desktop\Prueba.NET\Helpers\bin\Debug\Helpers.pdb
+C:\Users\darl_\Desktop\Prueba.NET\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+C:\Users\darl_\Desktop\Prueba.NET\Helpers\obj\Debug\Helpers.dll
+C:\Users\darl_\Desktop\Prueba.NET\Helpers\obj\Debug\Helpers.pdb
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Helpers\bin\Debug\Helpers.dll
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Helpers\bin\Debug\Helpers.pdb
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Helpers\obj\Debug\Helpers.dll
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Helpers\obj\Debug\Helpers.pdb

@@ -1,0 +1,4 @@
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\ExceptionsTest\bin\Release\ExceptionsTest.dll
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\ExceptionsTest\bin\Release\ExceptionsTest.pdb
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\ExceptionsTest\obj\Release\ExceptionsTest.dll
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\ExceptionsTest\obj\Release\ExceptionsTest.pdb

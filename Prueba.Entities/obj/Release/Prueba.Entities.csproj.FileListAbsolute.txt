@@ -1,0 +1,4 @@
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Prueba.Entities\bin\Release\Prueba.Entities.dll
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Prueba.Entities\bin\Release\Prueba.Entities.pdb
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Prueba.Entities\obj\Release\Prueba.Entities.dll
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Prueba.Entities\obj\Release\Prueba.Entities.pdb

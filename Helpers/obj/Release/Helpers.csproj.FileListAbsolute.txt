@@ -1,0 +1,4 @@
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Helpers\bin\Release\Helpers.dll
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Helpers\bin\Release\Helpers.pdb
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Helpers\obj\Release\Helpers.dll
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\Helpers\obj\Release\Helpers.pdb

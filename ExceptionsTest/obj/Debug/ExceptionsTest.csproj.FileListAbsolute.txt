@@ -1,0 +1,13 @@
+C:\Users\DiegoRL.INDIGO\documents\visual studio 2015\Projects\Prueba.NET\ExceptionsTest\bin\Debug\ExceptionsTest.dll
+C:\Users\DiegoRL.INDIGO\documents\visual studio 2015\Projects\Prueba.NET\ExceptionsTest\bin\Debug\ExceptionsTest.pdb
+C:\Users\DiegoRL.INDIGO\documents\visual studio 2015\Projects\Prueba.NET\ExceptionsTest\obj\Debug\ExceptionsTest.dll
+C:\Users\DiegoRL.INDIGO\documents\visual studio 2015\Projects\Prueba.NET\ExceptionsTest\obj\Debug\ExceptionsTest.pdb
+C:\Users\darl_\Desktop\Prueba.NET\ExceptionsTest\bin\Debug\ExceptionsTest.dll
+C:\Users\darl_\Desktop\Prueba.NET\ExceptionsTest\bin\Debug\ExceptionsTest.pdb
+C:\Users\darl_\Desktop\Prueba.NET\ExceptionsTest\obj\Debug\ExceptionsTest.csprojResolveAssemblyReference.cache
+C:\Users\darl_\Desktop\Prueba.NET\ExceptionsTest\obj\Debug\ExceptionsTest.dll
+C:\Users\darl_\Desktop\Prueba.NET\ExceptionsTest\obj\Debug\ExceptionsTest.pdb
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\ExceptionsTest\bin\Debug\ExceptionsTest.dll
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\ExceptionsTest\bin\Debug\ExceptionsTest.pdb
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\ExceptionsTest\obj\Debug\ExceptionsTest.dll
+C:\Users\DiegoRL.INDIGO\Downloads\ExceptionsTest\ExceptionsTest\obj\Debug\ExceptionsTest.pdb
